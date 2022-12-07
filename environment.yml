@@ -1,0 +1,6 @@
+name: data-access-demo-env
+
+dependencies:
+  - pip
+  - pip:
+    - -r requirements.txt
